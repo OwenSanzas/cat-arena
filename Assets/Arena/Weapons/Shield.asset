@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68874f19b330a4b49801da488ee9c876, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  displayName: "\u76FE\u724C"
+  description: "\u53EA\u80FD\u653E\u526F\u624B\u3002\u6309\u4F4F\u53F3\u952E\u4E3E\u76FE\u6321\u6B63\u9762\u653B\u51FB\uFF1B\u521A\u4E3E\u8D77\u65F6\u6321\u4E0B = \u5B8C\u7F8E\u683C\u6321\uFF0C\u5BF9\u624B\u786C\u76F4\u3002\u6BCF\u6B21\u6321\u4E0B\u90FD\u4F1A\u6389\u67B6\u52BF\uFF0C\u67B6\u52BF\u6389\u5149\u5C31\u7834\u76FE\uFF1A\u76FE\u724C\u788E\u6389 5 \u79D2\u3001\u957F\u786C\u76F4\u3001\u6328\u6253\u4F24\u5BB3 \xD71.5\u3002"
+  type: 3
+  rarity: 0
+  canMainHand: 0
+  canOffHand: 1
+  twoHandDamageMultiplier: 1.25
+  offHandDamageMultiplier: 0.8
+  shape: 0
+  damage: 0
+  range: 2
+  arcAngle: 110
+  thrustWidth: 0.6
+  windup: 0.15
+  active: 0.1
+  recovery: 0.3
+  comboLength: 3
+  staminaCost: 10
+  knockback: 4
+  hitStun: 0.3
+  guardDamage: 15
+  lunge: 3
+  projectileSpeed: 15
+  canBlock: 1
+  blockDamageReduction: 0.8
+  blockAngle: 140
+  parryWindow: 0.2
+  blockMoveMultiplier: 0.55
+  color: {r: 0.5, g: 0.33, b: 0.2, a: 1}
+  length: 1

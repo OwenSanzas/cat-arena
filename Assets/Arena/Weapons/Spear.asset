@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68874f19b330a4b49801da488ee9c876, type: 3}
+  m_Name: Spear
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  displayName: "\u957F\u67AA"
+  description: "\u653B\u51FB\u8DDD\u79BB\u6700\u8FDC\u7684\u76F4\u7EBF\u7A81\u523A\uFF0C\u9002\u5408\u5728\u654C\u4EBA\u591F\u4E0D\u7740\u7684\u8DDD\u79BB\u6233\u3002\u4FA7\u9762\u6CA1\u6709\u5224\u5B9A\u3002"
+  type: 1
+  rarity: 0
+  canMainHand: 1
+  canOffHand: 1
+  twoHandDamageMultiplier: 1.25
+  offHandDamageMultiplier: 0.8
+  shape: 1
+  damage: 22
+  range: 3.3
+  arcAngle: 110
+  thrustWidth: 0.6
+  windup: 0.18
+  active: 0.12
+  recovery: 0.3
+  comboLength: 2
+  staminaCost: 12
+  knockback: 4.5
+  hitStun: 0.3
+  guardDamage: 12
+  lunge: 4
+  projectileSpeed: 15
+  canBlock: 0
+  blockDamageReduction: 0.8
+  blockAngle: 140
+  parryWindow: 0.2
+  blockMoveMultiplier: 0.55
+  color: {r: 0.75, g: 0.78, b: 0.82, a: 1}
+  length: 2.6
